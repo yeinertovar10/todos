@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operadores_logicos\operadores_logicos\bin\Debug\operadores_logicos.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operadores_logicos\operadores_logicos\obj\Debug\operadores_logicos.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operadores_logicos\operadores_logicos\bin\Debug\operadores_logicos.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operadores_logicos\operadores_logicos\bin\Debug\operadores_logicos.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operadores_logicos\operadores_logicos\obj\Debug\operadores_logicos.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operadores_logicos\operadores_logicos\obj\Debug\operadores_logicos.pdb

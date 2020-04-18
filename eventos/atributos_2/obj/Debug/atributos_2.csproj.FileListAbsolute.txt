@@ -1,0 +1,14 @@
+C:\Users\TOVAR\Documents\2020_ADSI\atributos_2\atributos_2\bin\Debug\atributos_2.exe.config
+C:\Users\TOVAR\Documents\2020_ADSI\atributos_2\atributos_2\obj\Debug\atributos_2.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\atributos_2\atributos_2\bin\Debug\atributos_2.exe.config
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\atributos_2\atributos_2\obj\Debug\atributos_2.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\atributos_2\atributos_2\bin\Debug\atributos_2.exe
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\atributos_2\atributos_2\bin\Debug\atributos_2.pdb
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\atributos_2\atributos_2\obj\Debug\atributos_2.exe
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\atributos_2\atributos_2\obj\Debug\atributos_2.pdb
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\eventos\atributos_2\bin\Debug\atributos_2.exe.config
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\eventos\atributos_2\obj\Debug\atributos_2.exe
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\eventos\atributos_2\obj\Debug\atributos_2.pdb
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\eventos\atributos_2\obj\Debug\atributos_2.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\eventos\atributos_2\bin\Debug\atributos_2.exe
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\eventos\atributos_2\bin\Debug\atributos_2.pdb

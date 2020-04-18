@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcioconparametrossinretorno\funcioconparametrossinretorno\bin\Debug\funcioconparametrossinretorno.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcioconparametrossinretorno\funcioconparametrossinretorno\obj\Debug\funcioconparametrossinretorno.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcioconparametrossinretorno\funcioconparametrossinretorno\bin\Debug\funcioconparametrossinretorno.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcioconparametrossinretorno\funcioconparametrossinretorno\bin\Debug\funcioconparametrossinretorno.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcioconparametrossinretorno\funcioconparametrossinretorno\obj\Debug\funcioconparametrossinretorno.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcioconparametrossinretorno\funcioconparametrossinretorno\obj\Debug\funcioconparametrossinretorno.pdb

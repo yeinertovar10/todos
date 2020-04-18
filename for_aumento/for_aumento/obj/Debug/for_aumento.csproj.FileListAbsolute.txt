@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\for_aumento\for_aumento\bin\Debug\for_aumento.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\for_aumento\for_aumento\bin\Debug\for_aumento.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\for_aumento\for_aumento\bin\Debug\for_aumento.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\for_aumento\for_aumento\obj\Debug\for_aumento.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\for_aumento\for_aumento\obj\Debug\for_aumento.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\for_aumento\for_aumento\obj\Debug\for_aumento.pdb

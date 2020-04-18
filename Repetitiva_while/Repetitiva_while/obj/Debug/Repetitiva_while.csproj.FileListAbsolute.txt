@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Repetitiva_while\Repetitiva_while\bin\Debug\Repetitiva_while.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Repetitiva_while\Repetitiva_while\bin\Debug\Repetitiva_while.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Repetitiva_while\Repetitiva_while\bin\Debug\Repetitiva_while.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Repetitiva_while\Repetitiva_while\obj\Debug\Repetitiva_while.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Repetitiva_while\Repetitiva_while\obj\Debug\Repetitiva_while.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Repetitiva_while\Repetitiva_while\obj\Debug\Repetitiva_while.pdb

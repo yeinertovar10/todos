@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Condicional_if_else\Condicional_if_else\bin\Debug\Condicional_if_else.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Condicional_if_else\Condicional_if_else\bin\Debug\Condicional_if_else.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Condicional_if_else\Condicional_if_else\bin\Debug\Condicional_if_else.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Condicional_if_else\Condicional_if_else\obj\Debug\Condicional_if_else.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Condicional_if_else\Condicional_if_else\obj\Debug\Condicional_if_else.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Condicional_if_else\Condicional_if_else\obj\Debug\Condicional_if_else.pdb

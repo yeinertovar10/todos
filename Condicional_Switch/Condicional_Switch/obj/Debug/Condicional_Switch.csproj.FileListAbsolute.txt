@@ -1,0 +1,2 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Condicional_Switch\Condicional_Switch\bin\Debug\Condicional_Switch.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Condicional_Switch\Condicional_Switch\obj\Debug\Condicional_Switch.csprojResolveAssemblyReference.cache

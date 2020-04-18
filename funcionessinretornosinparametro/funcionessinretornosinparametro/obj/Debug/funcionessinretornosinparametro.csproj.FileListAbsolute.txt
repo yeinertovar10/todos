@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcionessinretornosinparametro\funcionessinretornosinparametro\bin\Debug\funcionessinretornosinparametro.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcionessinretornosinparametro\funcionessinretornosinparametro\obj\Debug\funcionessinretornosinparametro.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcionessinretornosinparametro\funcionessinretornosinparametro\bin\Debug\funcionessinretornosinparametro.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcionessinretornosinparametro\funcionessinretornosinparametro\bin\Debug\funcionessinretornosinparametro.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcionessinretornosinparametro\funcionessinretornosinparametro\obj\Debug\funcionessinretornosinparametro.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\funcionessinretornosinparametro\funcionessinretornosinparametro\obj\Debug\funcionessinretornosinparametro.pdb

@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operaciones_aritmeticas\operaciones_aritmeticas\bin\Debug\operaciones_aritmeticas.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operaciones_aritmeticas\operaciones_aritmeticas\obj\Debug\operaciones_aritmeticas.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operaciones_aritmeticas\operaciones_aritmeticas\bin\Debug\operaciones_aritmeticas.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operaciones_aritmeticas\operaciones_aritmeticas\bin\Debug\operaciones_aritmeticas.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operaciones_aritmeticas\operaciones_aritmeticas\obj\Debug\operaciones_aritmeticas.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\operaciones_aritmeticas\operaciones_aritmeticas\obj\Debug\operaciones_aritmeticas.pdb

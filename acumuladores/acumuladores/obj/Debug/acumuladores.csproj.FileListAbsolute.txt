@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\acumuladores\acumuladores\bin\Debug\acumuladores.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\acumuladores\acumuladores\obj\Debug\acumuladores.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\acumuladores\acumuladores\bin\Debug\acumuladores.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\acumuladores\acumuladores\bin\Debug\acumuladores.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\acumuladores\acumuladores\obj\Debug\acumuladores.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\acumuladores\acumuladores\obj\Debug\acumuladores.pdb

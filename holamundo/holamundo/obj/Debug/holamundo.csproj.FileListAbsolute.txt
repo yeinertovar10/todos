@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\holamundo\holamundo\bin\Debug\holamundo.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\holamundo\holamundo\bin\Debug\holamundo.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\holamundo\holamundo\bin\Debug\holamundo.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\holamundo\holamundo\obj\Debug\holamundo.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\holamundo\holamundo\obj\Debug\holamundo.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\holamundo\holamundo\obj\Debug\holamundo.pdb

@@ -1,0 +1,5 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Contadores\Contadores\bin\Debug\Contadores.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Contadores\Contadores\bin\Debug\Contadores.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Contadores\Contadores\bin\Debug\Contadores.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Contadores\Contadores\obj\Debug\Contadores.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Contadores\Contadores\obj\Debug\Contadores.pdb

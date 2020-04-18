@@ -1,0 +1,7 @@
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\insert_BD\insert_BD\bin\Debug\insert_BD.exe.config
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\insert_BD\insert_BD\obj\Debug\insert_BD.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\insert_BD\insert_BD\bin\Debug\insert_BD.exe
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\insert_BD\insert_BD\bin\Debug\insert_BD.pdb
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\insert_BD\insert_BD\bin\Debug\MySql.Data.dll
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\insert_BD\insert_BD\obj\Debug\insert_BD.exe
+C:\Users\TOVAR\Documents\2020_ADSI\jesusdavid\ejercicios\insert_BD\insert_BD\obj\Debug\insert_BD.pdb

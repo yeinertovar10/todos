@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Ciclo_for\Ciclo_for\bin\Debug\Ciclo_for.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Ciclo_for\Ciclo_for\bin\Debug\Ciclo_for.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Ciclo_for\Ciclo_for\bin\Debug\Ciclo_for.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Ciclo_for\Ciclo_for\obj\Debug\Ciclo_for.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Ciclo_for\Ciclo_for\obj\Debug\Ciclo_for.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\Ciclo_for\Ciclo_for\obj\Debug\Ciclo_for.pdb

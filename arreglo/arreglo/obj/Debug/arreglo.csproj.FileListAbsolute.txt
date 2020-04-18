@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\arreglo\arreglo\bin\Debug\arreglo.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\arreglo\arreglo\bin\Debug\arreglo.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\arreglo\arreglo\bin\Debug\arreglo.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\arreglo\arreglo\obj\Debug\arreglo.exe
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\arreglo\arreglo\obj\Debug\arreglo.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\jesusdavid\ejercicios\arreglo\arreglo\obj\Debug\arreglo.csprojResolveAssemblyReference.cache

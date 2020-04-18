@@ -1,0 +1,6 @@
+C:\Users\TOVAR\Documents\2020 ADSI\atributos\atributos\bin\Debug\atributos.exe.config
+C:\Users\TOVAR\Documents\2020 ADSI\atributos\atributos\obj\Debug\atributos.csprojResolveAssemblyReference.cache
+C:\Users\TOVAR\Documents\2020 ADSI\atributos\atributos\bin\Debug\atributos.exe
+C:\Users\TOVAR\Documents\2020 ADSI\atributos\atributos\bin\Debug\atributos.pdb
+C:\Users\TOVAR\Documents\2020 ADSI\atributos\atributos\obj\Debug\atributos.exe
+C:\Users\TOVAR\Documents\2020 ADSI\atributos\atributos\obj\Debug\atributos.pdb
